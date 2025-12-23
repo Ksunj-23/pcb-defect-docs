@@ -33,7 +33,7 @@ PCB 결함 판단 기준을 명확히 파악할 수 있도록 작성되었다.
   - 이미지가 잘린 부분에 불량이 존재하는 경우 식별이 어려울 수 있음
   - 실크가 위에 덮여진 경우 단절된 부분이 시각적으로 쉽게 식별하기 어려울 수 있음
 
-![open_example](../images/open_example.jpg)
+![open_example](images/open_example.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ PCB 결함 판단 기준을 명확히 파악할 수 있도록 작성되었다.
     납땜 흔적이 없는 경우를 Pad Open으로 정의함
   - 이미지가 잘린 부분(모서리 등)에 불량이 존재하는 경우 식별이 어려울 수 있음
 
-![pad_open_example](../images/pad_open_example.jpg)
+![pad_open_example](images/pad_open_example.jpg)
 
 ---
 
@@ -84,7 +84,7 @@ PCB 결함 판단 기준을 명확히 파악할 수 있도록 작성되었다.
   - 다른 불량에 비해서 작은 크기의 미세한 불량이므로 식별이 어려울 수 있음
   - 실크가 위에 덮여진 경우 불량 부분이 시각적으로 쉽게 식별하기 어려울 수 있음
 
-![short_example](../images/short_example.jpg)
+![short_example](images/short_example.jpg)
 
 ---
 
@@ -104,7 +104,7 @@ PCB 결함 판단 기준을 명확히 파악할 수 있도록 작성되었다.
 - **비고**
   전기적 불량은 아니나 품질 기준상 불량으로 분류됨
 
-![silk_example](../images/silk_example.jpg)
+![silk_example](images/silk_example.jpg)
 
 ---
 
